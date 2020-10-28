@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">JogoDaForca</string>
+    <string name="txtNomeJogo">Jogo da Forca</string>
+    <string name="hintPalavraoculta">Palavra-oculta</string>
+    <string name="txtPalavra">Palavra</string>
+    <string name="hintChances">Chances</string>
+    <string name="txtQtd">Quantidade de chances</string>
+    <string name="btnComecarJogo">Começar jogo</string>
+
+    <string name="txtTentativas">Tentativas Restantes:</string>
+    <string name="txtTentarLetra">Tentar letra:</string>
+    <string name="txtOK">OK</string>
+    <string name="txtOK2">OK</string>
+    <string name="txtTentarPalavra">Tentar palavra:</string>
+    <string name="txtPalavrasTentadas">Letras e palavras tentadas</string>
+</resources>
